@@ -49,7 +49,7 @@ public class UserController : ControllerBase
             return Unauthorized(new {message="Invalid Username or password"});
         }
         
-        return Ok(ne
+        return Ok(new
         {
             message = $"Welcome {user.Username}"
         });
