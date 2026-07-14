@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlInjection.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1e04d5a13f677b7fe86578b468085f38cee4acb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+339c60395d33726a2bbf059c1720d2c7ab174324")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlInjection.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlInjection.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
